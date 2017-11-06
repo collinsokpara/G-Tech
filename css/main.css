@@ -1,0 +1,26 @@
+.registeronloginform a:hover{
+	color: green;
+	font-size: 14px;
+	text-decoration: none;
+}
+.headerimage img{
+	width: 100%;
+	height: 200px;
+}
+.totalformcontainer{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 50px;
+}
+.gap{
+	//margin-bottom: 10px;
+}
+.helloparticipants:hover{
+	background-color: skyblue;
+	width: 98%;
+	padding: 15px;
+	box-shadow: 4px 4px 8px solid black;
+}
+.signin-link{
+	color: red !important;
+}
